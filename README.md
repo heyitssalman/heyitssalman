@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @heyitssalman
-- 👀 I’m interested in Software Applications Development mainly
-- 🌱 I’m currently working on software web application based on React js and Axios on frontend
-- 💞️ I’m looking to collaborate on AI based development
-- 📫 How to reach me - salman.wajid5@gmail.com
+- 👋 Hi
+
+🔭 I’m currently working as software applications developer at Pulp you media. � I’m currently learning front-end framework - React.js and back-end framework - Express
+
+Master of Information Technology graduated from CQUni Sydney with major in Software Design and Development and  Bachelor of Engineering in Electronics and Communications
+Career goal: Full stack developer - managerial level positions  and - CEO of multi-national company
 
 <!---
 heyitssalman/heyitssalman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
